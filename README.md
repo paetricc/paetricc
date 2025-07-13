@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tomáš Bártů
 
-🎓 I'm a recent graduate of the Master's program at [Brno University of Technology – Faculty of Information Technology (BUT FIT)](https://www.fit.vut.cz/), where I specialized in **Cybersecurity**.
+🎓 I'm a recent graduate of the Master's program at Brno University of Technology - Faculty of Information Technology (BUT FIT), where I specialized in **Cybersecurity**.
 
 ☁️ I'm currently exploring the world of **cloud technologies** from infrastructure and automation to modern deployment practices.
 
