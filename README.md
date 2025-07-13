@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=paetricc&count_private=true&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true&disable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=paetricc&count_private=true&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true&disable_animations=true&rank_icon=github" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paetricc&langs_count=10&layout=compact&theme=dracula" />
