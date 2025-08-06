@@ -4,10 +4,12 @@
 
 ☁️ I'm currently exploring the world of **cloud technologies** from infrastructure and automation to modern deployment practices.
 
+📖 I'm currently reading _A Brief History of Time_ by Stephen Hawking.
+
 ## 🔎 About me
 
 - 🧠 Focused on cybersecurity and programming
-- 📚 Lifelong learner, always curious about how things work  
+- 📚 Lifelong learner, always curious about how things work
 - 🌍 Passionate about personal growth, reading, and exploring the world  
 - 🚴 I enjoy cycling, strength training, and diving into topics like history and space  
 - ☕ I'm also a big fan of good coffee. I enjoy both brewing it and drinking it
