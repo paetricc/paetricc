@@ -4,7 +4,7 @@
 
 ☁️ I'm currently exploring the world of **cloud technologies** from infrastructure and automation to modern deployment practices.
 
-📖 I'm currently reading _A Brief History of Time_ by Stephen Hawking.
+📖 I'm currently reading _The Hobbit_ by J. R. R. Tolkien.
 
 ## 🔎 About me
 
