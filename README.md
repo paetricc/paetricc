@@ -4,7 +4,7 @@
 
 ☁️ I'm currently exploring the world of **cloud technologies** from infrastructure and automation to modern deployment practices.
 
-📖 I'm currently reading _The Hobbit_ by J. R. R. Tolkien.
+📖 I'm currently reading _The Lord of the Rings: The Fellowship of the Ring_ by J. R. R. Tolkien.
 
 ## 🔎 About me
 
